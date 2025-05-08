@@ -1,4 +1,4 @@
-# 🕌 Bail Islamic App
+# 🕌 Bian Islamic App
 
 **Bail Islamic App** is a comprehensive Islamic application built using **Flutter**, designed to help Muslims stay connected to their faith. It offers features such as Quran reading, Azkar, Prayer Times, Hijri Calendar, and more—all in a user-friendly and beautifully designed interface.
 
